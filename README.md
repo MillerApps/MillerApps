@@ -1,6 +1,11 @@
 
 ### Hi, I'm Tyler 👋<br>
-<br>- 🔭 I’m currently working on extending my skills within the Swift ecocsystem.<br>- 🌱 I’m currently learning SwiftUI<br>- 🤔 I’m looking for help with pursuing my goals; wether that means answering questions or simply telling me to get on track!<br>- 📫 How to reach me:<br>  - On [Mastodon](https://mastodon.social/@MillerApps) 🐘<br>- ⚡ Fun fact: I work in construction, building homes and doing concrete.
+- 🔭 I’m currently working on extending my skills within the Swift ecocsystem.
+- 🌱 I’m currently learning SwiftUI
+- 🤔 I’m looking for help with pursuing my goals; wether that means answering questions or simply telling me to get on track!
+- 📫 How to reach me:
+  - On [Mastodon](https://mastodon.social/@MillerApps) 🐘
+- ⚡ Fun fact: I work in construction, building homes and doing concrete.
 
 # 💻 Tech Stack:
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
