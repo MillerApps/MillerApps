@@ -1,29 +1,71 @@
+Hi 👋 My name is Tyler Miller
+=============================  
+Aspiring iOS developer | Currently a carpenter | previously studied iOS 
+-----------------------------------------------------------------------  
+* 🔭 I’m currently working on extending my skills within the Swift ecocsystem. 
+* 🤔 I’m looking for help with pursuing my goals; whether that means answering questions or simply telling me to get on track!  
+* 🌍  I'm based in Michigan
+* 🧠  I'm learning SwiftUI
+* ⚡  I'm definitely not an Alien 👽 from space! 🛸
 
-### Hi, I'm Tyler 👋<br>
-- 🔭 I’m currently working on extending my skills within the Swift ecocsystem.
-- 🌱 I’m currently learning SwiftUI
-- 🤔 I’m looking for help with pursuing my goals; wether that means answering questions or simply telling me to get on track!
-- 📫 How to reach me:
-  - On [Mastodon](https://mastodon.social/@MillerApps) 🐘
-- ⚡ Fun fact: I work in construction, building homes and doing concrete.
+### Skills  
+<p align="left">
+    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+    <a href="https://apple.com" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+    <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+</p>
+ 
+ ### Socials  
+<p align="left">
+    <!-- GitHub Link -->
+    <a href="https://www.github.com/millerapps" target="_blank" rel="noreferrer">
+        <picture>
+            <!-- GitHub Icon for Dark Mode -->
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+            <!-- GitHub Icon for Light Mode -->
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+            <!-- Default GitHub Icon -->
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
+        </picture>
+    </a>
+    <!-- Twitter Link -->
+    <a href="https://www.x.com/millerapps" target="_blank" rel="noreferrer">
+        <picture>
+            <!-- Twitter Icon for Dark Mode -->
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
+            <!-- Twitter Icon for Light Mode -->
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
+            <!-- Default Twitter Icon -->
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+        </picture>
+    </a>
+    <!-- Threads Link -->
+    <a href="https://www.threads.net/@Tyler_miller47" target="_blank" rel="noreferrer">
+        <picture>
+            <!-- Threads Icon for Dark Mode -->
+            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
+            <!-- Threads Icon for Light Mode -->
+            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
+            <!-- Default Threads Icon -->
+            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
+        </picture>
+    </a>
+</p>
 
-# 💻 Tech Stack:
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=flat&logo=apple&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat&logo=Firebase&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MillerApps&theme=darcula&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=MillerApps&theme=darcula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MillerApps&theme=darcula&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MillerApps&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MillerApps&limit=5&theme=onedark&combine_all_yearly_contributions=true)
 
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/millerapps) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tyemiller) 
+### Badges
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/millerapps"><img src="https://github-readme-stats.vercel.app/api?username=millerapps&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="millerapps's GitHub stats" /></a>
+<a href="http://www.github.com/millerapps"><img src="https://github-readme-streak-stats.herokuapp.com/?user=millerapps&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+### Support Me
+<a href="https://www.buymeacoffee.com/millerapps"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
