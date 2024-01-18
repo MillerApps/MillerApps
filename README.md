@@ -69,3 +69,4 @@ Aspiring iOS developer | Currently a carpenter | previously studied iOS
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/millerapps"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G2TGT2Q)
