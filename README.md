@@ -6,6 +6,7 @@ Aspiring iOS developer | Currently a carpenter | previously studied iOS
 * 🤔 I’m looking for help with pursuing my goals; whether that means answering questions or simply telling me to get on track!  
 * 🌍  I'm based in Michigan
 * 🧠  I'm learning SwiftUI
+* Thinking about delving into Rust 🦀
 * ⚡  I'm definitely not an Alien 👽 from space! 🛸
 
 ### Skills  
