@@ -57,6 +57,11 @@ Aspiring iOS developer | Currently a carpenter | previously studied iOS
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
         </picture>
     </a>
+        <a href="https://mastodon.social/@MillerApps" target="_blank" rel="noreferrer">
+        <picture>
+        <img height="32" width="32" src="https://cdn.simpleicons.org/mastodon/black/white" />
+        </picture>
+    </a>
 </p>
 
 
