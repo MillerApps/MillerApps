@@ -18,8 +18,16 @@ Aspiring iOS developer | Currently a carpenter | previously studied iOS
     <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
     <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
     <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-    <a href="https://apple.com" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a>
+    <a href="https://apple.com" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://cdn.simpleicons.org/macos/black/white" width="36" height="36" alt="MacOS" /></a>
     <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
+</p>
+
+#### Upcoming or developing skills.
+
+<p aligin="left">  
+    <a href="rust-lang.org/" target="_blank" rel="nonreferrer" styler="padding: 5px;"><img src="https://cdn.simpleicons.org/rust/black/white" width="36" height="36" alt="Rust" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="nonreferrer" styler="padding: 5px;"><img src="https://cdn.simpleicons.org/typescript" width="36" height="36" alt="TypeScript" /></a>
+    <a href="https://developer.apple.com/documentation/swiftui">SwiftUI</a>
 </p>
  
  ### Socials  
