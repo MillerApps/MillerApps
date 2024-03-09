@@ -1,13 +1,13 @@
-Hi 👋 My name is Tyler Miller
+Hey there! 👋 Tyler Miller speaking!
 =============================  
-Aspiring iOS developer | Currently a carpenter | previously studied iOS 
+Budding iOS developer | Past iOS student | Currently mastering Swift | Once a Carpenter/Concrete helper 
 -----------------------------------------------------------------------  
-* 🔭 I’m currently working on extending my skills within the Swift ecocsystem. 
-* 🤔 I’m looking for help with pursuing my goals; whether that means answering questions or simply telling me to get on track!  
-* 🌍  I'm based in Michigan
-* 🧠  I'm learning SwiftUI
-* Thinking about delving into Rust 🦀
-* ⚡  I'm definitely not an Alien 👽 from space! 🛸
+* 🚀 Now immersed in Swift, stretching my coding muscles
+* 🌍 Full-time Michigan resident and a part-time SwiftUI student
+* 🦀 Thinking about hitching a ride with Rust
+* 👽 Although my appearance may be a bit extraterrestrial, my intellect assures you otherwise - here's to aspiring for that advanced alien brainpower! 🛸
+
+Feel free to share your wisdom, help me stay on course, or simply connect for a fun tech discussion! Can't wait! 🙌🚀
 
 ### Skills  
 <p align="left">
