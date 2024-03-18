@@ -78,8 +78,8 @@ Feel free to share your wisdom, help me stay on course, or simply connect for a 
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/millerapps"><img src="https://github-readme-stats.vercel.app/api?username=millerapps&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="millerapps's GitHub stats" /></a>
-<a href="http://www.github.com/millerapps"><img src="https://github-readme-streak-stats.herokuapp.com/?user=millerapps&stroke=ffffff&background=1c1917&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/millerapps"><img src="https://github-readme-stats.vercel.app/api?username=millerapps&show_icons=true&hide=&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="millerapps's GitHub stats"  /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=millerapps&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
 
 ### Support Me
 <a href="https://www.buymeacoffee.com/millerapps"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
