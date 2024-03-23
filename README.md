@@ -26,6 +26,7 @@ Feel free to share your wisdom, help me stay on course, or simply connect for a 
 
 <p aligin="left">  
     <a href="rust-lang.org/" target="_blank" rel="nonreferrer" styler="padding: 5px;"><img src="https://cdn.simpleicons.org/rust/black/white" width="36" height="36" alt="Rust" /></a>
+    <a href="https://www.lua.org" target="_blank" re="nonreferrer" styyle="padding: 5px:"><img src="https://cdn.simpleicons.org/lua/black/white" width="36" height="36" alt="Lua" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="nonreferrer" styler="padding: 5px;"><img src="https://cdn.simpleicons.org/typescript" width="36" height="36" alt="TypeScript" /></a>
     <a href="https://developer.apple.com/documentation/swiftui">SwiftUI</a>
 </p>
