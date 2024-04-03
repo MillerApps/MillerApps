@@ -25,6 +25,7 @@ Feel free to share your wisdom, help me stay on course, or simply connect for a 
 #### Upcoming or developing skills.
 
 <p aligin="left">  
+    <a href="https://go.dev/" target="_blank" rel="nonreferrer" styler="padding: 5px;"><img src="https://cdn.simpleicons.org/go/black/white" width="36" height="36" alt="GO" /></a>
     <a href="rust-lang.org/" target="_blank" rel="nonreferrer" styler="padding: 5px;"><img src="https://cdn.simpleicons.org/rust/black/white" width="36" height="36" alt="Rust" /></a>
     <a href="https://www.lua.org" target="_blank" re="nonreferrer" styyle="padding: 5px:"><img src="https://cdn.simpleicons.org/lua/black/white" width="36" height="36" alt="Lua" /></a>
     <a href="https://developer.apple.com/documentation/swiftui">SwiftUI</a>
