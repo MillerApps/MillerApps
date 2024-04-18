@@ -20,7 +20,7 @@ Feel free to share your wisdom, help me stay on course, or simply connect for a 
     
 </p>
 
-### Things I kused but never dug deep
+### Things I used but never dug deep
 <p align="left>
     <a href="https://nodejs.org/en" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://cdn.simpleicons.org/nodedotjs/" width="36" height="36" alt="Node.js" /></a>
 </p>
