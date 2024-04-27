@@ -10,38 +10,16 @@ Budding iOS developer | Past iOS student | Currently mastering Swift | Once a Ca
 Feel free to share your wisdom, help me stay on course, or simply connect for a fun tech discussion! Can't wait! 🙌🚀
 
 ### Skills  
-<p align="left">
-    <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-    <a href="https://firebase.google.com/" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-    <a href="https://apple.com" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://cdn.simpleicons.org/macos/black/white" width="36" height="36" alt="MacOS" /></a>
-    <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a>
-    <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" width="36" height="36" alt="Objective-C" /></a>
-    
-</p>
+[![My Skills](https://skillicons.dev/icons?i=swift,md,git,apple,github,neovim)](https://skillicons.dev)
 
 ### Things I used but never dug deep
-<p align="left>
-    <a href="https://nodejs.org/en" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://cdn.simpleicons.org/nodedotjs/" width="36" height="36" alt="Node.js" /></a>
-</p>
+[![Kinda Skills](https://skillicons.dev/icons?i=nodejs,docker,bash)](https://skillicons.dev)
 
 ### Things I have used but don't like 🤷
-<p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-    <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-    <a href="https://sass-lang.com/" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
-    <a href="https://www.java.com/en/" target="_blank" rel="noreferrer" style="padding: 5px;"><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" width="36" height="36" alt="Java" /></a>
-</p>
+[![Dont like](https://skillicons.dev/icons?i=html,css,js,java)](https://skillicons.dev)
 
 #### Upcoming or developing skills.
-
-<p aligin="left">  
-    <a href="https://go.dev/" target="_blank" rel="nonreferrer" styler="padding: 5px;"><img src="https://cdn.simpleicons.org/go/black/white" width="36" height="36" alt="GO" /></a>
-    <a href="rust-lang.org/" target="_blank" rel="nonreferrer" styler="padding: 5px;"><img src="https://cdn.simpleicons.org/rust/black/white" width="36" height="36" alt="Rust" /></a>
-    <a href="https://www.lua.org" target="_blank" re="nonreferrer" styyle="padding: 5px:"><img src="https://cdn.simpleicons.org/lua/black/white" width="36" height="36" alt="Lua" /></a>
-    <a href="https://developer.apple.com/documentation/swiftui">SwiftUI</a>
-</p>
+[![Upcoming Skills](https://skillicons.dev/icons?i=go,rust,lua)](https://skillicons.dev)
  
  ### Socials  
 <p align="left">
