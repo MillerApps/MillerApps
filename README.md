@@ -2,7 +2,7 @@ Hey there! 👋 Tyler Miller speaking!
 =============================  
 Budding iOS developer | Past iOS student | Currently mastering Swift | Once a Carpenter/Concrete helper 
 -----------------------------------------------------------------------  
-* 🚀 Now immersed in Swift, stretching my coding muscles
+* 🚀 Now immersed in Lua and Neovim
 * 🌍 Full-time Michigan resident and a part-time SwiftUI student
 * 🦀 Thinking about hitching a ride with Rust
 * 👽 Although my appearance may be a bit extraterrestrial, my intellect assures you otherwise - here's to aspiring for that advanced alien brainpower! 🛸
