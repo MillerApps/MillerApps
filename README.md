@@ -1,9 +1,9 @@
 Hey there! 👋 Tyler Miller speaking!
 =============================  
-Budding iOS developer | Past iOS student | Currently mastering Swift | Once a Carpenter/Concrete helper 
+Budding maker of things | Past iOS student | Currently dabbling in new areas | Once a carpenter/concrete helper
 -----------------------------------------------------------------------  
-* 🚀 Now immersed in Lua and Neovim
-* 🌍 Full-time Michigan resident and a part-time SwiftUI student
+* 🚀 Now immersed in Nix, Lua, and Neovim
+* 🌍 Full-time Michigan resident and a part-time CS student
 * 🦀 Thinking about hitching a ride with Rust
 * 👽 Although my appearance may be a bit extraterrestrial, my intellect assures you otherwise - here's to aspiring for that advanced alien brainpower! 🛸
 
@@ -13,13 +13,17 @@ Feel free to share your wisdom, help me stay on course, or simply connect for a 
 [![My Skills](https://skillicons.dev/icons?i=swift,md,git,apple,github,neovim)](https://skillicons.dev)
 
 ### Things I used but never dug deep
-[![Kinda Skills](https://skillicons.dev/icons?i=nodejs,docker,bash)](https://skillicons.dev)
+
+> [!NOTE]
+> Not all were used equally, i.e., time used.
+
+[![Kinda Skills](https://skillicons.dev/icons?i=nodejs,docker,bash,rust)](https://skillicons.dev)
 
 ### Things I have used but don't like 🤷
 [![Dont like](https://skillicons.dev/icons?i=html,css,js,java)](https://skillicons.dev)
 
 #### Upcoming or developing skills.
-[![Upcoming Skills](https://skillicons.dev/icons?i=go,rust,lua)](https://skillicons.dev)
+[![Upcoming Skills](https://skillicons.dev/icons?i=go,lua,nix)](https://skillicons.dev)
  
  ### Socials  
 <p align="left">
