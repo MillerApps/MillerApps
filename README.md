@@ -4,7 +4,6 @@ Budding maker of things | Past iOS student | Currently dabbling in new areas | O
 -----------------------------------------------------------------------  
 * 🚀 Now immersed in Nix, Lua, and Neovim
 * 🌍 Full-time Michigan resident and a part-time CS student
-* 🦀 Thinking about hitching a ride with Rust
 * 👽 Although my appearance may be a bit extraterrestrial, my intellect assures you otherwise - here's to aspiring for that advanced alien brainpower! 🛸
 
 Feel free to share your wisdom, help me stay on course, or simply connect for a fun tech discussion! Can't wait! 🙌🚀
