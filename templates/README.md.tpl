@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" src="./miller-apps.png" width="260">
+
 The name is Tyler, I'm a fool who lost his way in the tech world! Currently, trying to find my way back one rabbit hole at a time!
 
 #### 👷 Check out what I'm currently working on
