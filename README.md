@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img align="right" src="./miller-apps.png" width="260">
+
 The name is Tyler, I'm a fool who lost his way in the tech world! Currently, trying to find my way back one rabbit hole at a time!
 
 #### 👷 Check out what I'm currently working on
@@ -48,6 +50,9 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (today)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
 - [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges. (today)
 - [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models (today)
 - [tailscale/setec](https://github.com/tailscale/setec) - A secrets management service that uses Tailscale for access control (today)
@@ -55,9 +60,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (1 day ago)
 - [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]  (1 day ago)
 - [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim  (1 day ago)
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. (1 day ago)
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads &amp; trackers blocking DNS server (1 day ago)
-- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (1 day ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
