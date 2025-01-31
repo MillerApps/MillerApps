@@ -80,10 +80,6 @@ Feel free to share your wisdom, help me stay on course, or simply connect for a 
 <a href="http://www.github.com/millerapps"><img src="https://github-readme-stats.vercel.app/api?username=millerapps&show_icons=true&hide=&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="millerapps's GitHub stats"  /></a>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=millerapps&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
 
-### Support Me
-<a href="https://www.buymeacoffee.com/millerapps"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G2TGT2Q)
-
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
 <!-- comments will be preserved -->
