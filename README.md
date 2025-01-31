@@ -1,12 +1,74 @@
-Hey there! 👋 Tyler Miller speaking!
-=============================  
-Budding maker of things | Past iOS student | Currently dabbling in new areas | Once a carpenter/concrete helper
------------------------------------------------------------------------  
-* 🚀 Now immersed in Nix, Lua, and Neovim
-* 🌍 Full-time Michigan resident and a part-time CS student
-* 👽 Although my appearance may be a bit extraterrestrial, my intellect assures you otherwise - here's to aspiring for that advanced alien brainpower! 🛸
+### Hi there 👋
 
-Feel free to share your wisdom, help me stay on course, or simply connect for a fun tech discussion! Can't wait! 🙌🚀
+The name is Tyler, I'm a fool who lost his way in the tech world! Currently, trying to find my way back one rabbit hole at a time!
+
+#### 👷 Check out what I'm currently working on
+
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (1 day ago)
+- [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea! (1 week ago)
+- [MillerApps/luaoutput](https://github.com/MillerApps/luaoutput) - My basic nvim plugin for running Lua files in a split! (1 month ago)
+- [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (1 month ago)
+- [MillerApps/go-journey](https://github.com/MillerApps/go-journey) - My Journey Through Go, using Exercism (8 months ago)
+- [MillerApps/swift-journey](https://github.com/MillerApps/swift-journey) - Excersim Swift (9 months ago)
+- [MillerApps/dodging-asteroids](https://github.com/MillerApps/dodging-asteroids) - 2d space adventure (10 months ago)
+- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (10 months ago)
+- [MillerApps/decoded](https://github.com/MillerApps/decoded) -  (11 months ago)
+
+#### 🌱 My latest projects
+
+- [MillerApps/luaoutput](https://github.com/MillerApps/luaoutput) - My basic nvim plugin for running Lua files in a split!
+- [MillerApps/swift-journey](https://github.com/MillerApps/swift-journey) - Excersim Swift
+- [MillerApps/go-journey](https://github.com/MillerApps/go-journey) - My Journey Through Go, using Exercism
+- [MillerApps/dodging-asteroids](https://github.com/MillerApps/dodging-asteroids) - 2d space adventure
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date!
+- [MillerApps/decoded](https://github.com/MillerApps/decoded) - 
+- [MillerApps/MARoundButton](https://github.com/MillerApps/MARoundButton) - 
+- [MillerApps/Sportsman-Tracker-iOS-Code-Challenge-](https://github.com/MillerApps/Sportsman-Tracker-iOS-Code-Challenge-) - A Test application for a the iOS developer Position at Sportsman Tracker
+- [MillerApps/RecipeBuddyiOS](https://github.com/MillerApps/RecipeBuddyiOS) - iOS version for RecipeBuddy School project
+- [MillerApps/BrewBuddy](https://github.com/MillerApps/BrewBuddy) - Code for a Brewery finding app for iOS
+
+#### 🔭 Latest releases I've contributed to
+
+
+#### 🔨 My recent Pull Requests
+
+- [[nix/en] update to string interpolation](https://github.com/adambard/learnxinyminutes-docs/pull/5240) on [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) (1 week ago)
+- [[Brew] Add Warp ](https://github.com/raycast/extensions/pull/11180) on [raycast/extensions](https://github.com/raycast/extensions) (10 months ago)
+- [Remove a few warnings](https://github.com/trustwallet/trust-wallet-ios/pull/743) on [trustwallet/trust-wallet-ios](https://github.com/trustwallet/trust-wallet-ios) (6 years ago)
+- [Add files via upload](https://github.com/trustwallet/tokens/pull/169) on [trustwallet/tokens](https://github.com/trustwallet/tokens) (6 years ago)
+- [Add Fitrova (FRV)](https://github.com/trustwallet/trust-ray/pull/302) on [trustwallet/trust-ray](https://github.com/trustwallet/trust-ray) (6 years ago)
+- [Add SyncFab](https://github.com/trustwallet/trust-ray/pull/293) on [trustwallet/trust-ray](https://github.com/trustwallet/trust-ray) (6 years ago)
+- [Improve validation error display](https://github.com/trustwallet/trust-wallet-ios/pull/704) on [trustwallet/trust-wallet-ios](https://github.com/trustwallet/trust-wallet-ios) (6 years ago)
+- [Add Amon](https://github.com/trustwallet/trust-ray/pull/283) on [trustwallet/trust-ray](https://github.com/trustwallet/trust-ray) (6 years ago)
+
+#### 📓 Gists I wrote
+
+- [Karabiner Elements hyperKey &#43; v Vim binds](https://gist.github.com/d6bcde93678b9f5a7c5979e184d0148b) (9 months ago)
+- [Karabiner Elements HyperKey mapped to Caps Lock](https://gist.github.com/ac8ec045f9c4fd21e829f92f960aa522) (9 months ago)
+
+#### ⭐ Recent Stars
+
+- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges. (today)
+- [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models (today)
+- [tailscale/setec](https://github.com/tailscale/setec) - A secrets management service that uses Tailscale for access control (today)
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (today)
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (1 day ago)
+- [nix-community/nix-direnv](https://github.com/nix-community/nix-direnv) - A fast, persistent use_nix/use_flake implementation for direnv [maintainer=@Mic92 / @bbenne10]  (1 day ago)
+- [Saghen/blink.cmp](https://github.com/Saghen/blink.cmp) - Performant, batteries-included completion plugin for Neovim  (1 day ago)
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models. (1 day ago)
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads &amp; trackers blocking DNS server (1 day ago)
+- [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder (1 day ago)
+
+#### ❤️ These awesome people sponsor me (thank you!)
+
+
+#### 👯 Check out some of my recent followers
+
+- [ramijames](https://github.com/ramijames)
+- [Neustradamus](https://github.com/Neustradamus)
+- [ipqwery](https://github.com/ipqwery)
+- [Ramyromel](https://github.com/Ramyromel)
+- [Khalilheyrani6367](https://github.com/Khalilheyrani6367)
 
 ### Skills  
 [![My Skills](https://skillicons.dev/icons?i=swift,md,git,apple,github,neovim)](https://skillicons.dev)
@@ -23,50 +85,19 @@ Feel free to share your wisdom, help me stay on course, or simply connect for a 
 
 #### Upcoming or developing skills.
 [![Upcoming Skills](https://skillicons.dev/icons?i=go,lua,nix)](https://skillicons.dev)
- 
- ### Socials  
-<p align="left">
-    <!-- GitHub Link -->
-    <a href="https://www.github.com/millerapps" target="_blank" rel="noreferrer">
-        <picture>
-            <!-- GitHub Icon for Dark Mode -->
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-            <!-- GitHub Icon for Light Mode -->
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-            <!-- Default GitHub Icon -->
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-        </picture>
-    </a>
-    <!-- Twitter Link -->
-    <a href="https://www.x.com/millerapps" target="_blank" rel="noreferrer">
-        <picture>
-            <!-- Twitter Icon for Dark Mode -->
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-            <!-- Twitter Icon for Light Mode -->
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-            <!-- Default Twitter Icon -->
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-        </picture>
-    </a>
-    <!-- Threads Link -->
-    <a href="https://www.threads.net/@Tyler_miller47" target="_blank" rel="noreferrer">
-        <picture>
-            <!-- Threads Icon for Dark Mode -->
-            <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads-dark.svg" />
-            <!-- Threads Icon for Light Mode -->
-            <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" />
-            <!-- Default Threads Icon -->
-            <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/threads.svg" width="32" height="32" />
-        </picture>
-    </a>
-        <a href="https://mastodon.social/@MillerApps" target="_blank" rel="noreferrer">
-        <picture>
-        <img height="32" width="32" src="https://cdn.simpleicons.org/mastodon/black/white" />
-        </picture>
-    </a>
-</p>
 
 
+#### 💬 Feedback
+
+Say Hello, I don't bite!
+
+Feel free to share your wisdom, help me stay on course, or simply connect for a fun tech discussion! Can't wait! 🙌🚀
+
+#### 📫 How to reach me
+
+- Twitter (X): https://x.com/MillerApps
+- BlueSky: https://bsky.app/profile/millerapps.bsky.social
+- Blog: https://millerapps.github.io
 
 ### Badges
 
@@ -78,3 +109,7 @@ Feel free to share your wisdom, help me stay on course, or simply connect for a 
 ### Support Me
 <a href="https://www.buymeacoffee.com/millerapps"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G2TGT2Q)
+
+Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+
+
