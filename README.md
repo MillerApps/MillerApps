@@ -6,7 +6,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👷 Check out what I'm currently working on
 
-- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (today)
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (1 day ago)
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea! (1 week ago)
 - [MillerApps/luaoutput](https://github.com/MillerApps/luaoutput) - My basic nvim plugin for running Lua files in a split! (1 month ago)
 - [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (1 month ago)
@@ -14,7 +14,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [MillerApps/swift-journey](https://github.com/MillerApps/swift-journey) - Excersim Swift (9 months ago)
 - [MillerApps/dodging-asteroids](https://github.com/MillerApps/dodging-asteroids) - 2d space adventure (10 months ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (10 months ago)
-- [MillerApps/decoded](https://github.com/MillerApps/decoded) -  (11 months ago)
+- [MillerApps/decoded](https://github.com/MillerApps/decoded) -  (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -35,7 +35,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 #### 🔨 My recent Pull Requests
 
 - [[nix/en] update to string interpolation](https://github.com/adambard/learnxinyminutes-docs/pull/5240) on [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) (1 week ago)
-- [[Brew] Add Warp ](https://github.com/raycast/extensions/pull/11180) on [raycast/extensions](https://github.com/raycast/extensions) (10 months ago)
+- [[Brew] Add Warp ](https://github.com/raycast/extensions/pull/11180) on [raycast/extensions](https://github.com/raycast/extensions) (11 months ago)
 - [Remove a few warnings](https://github.com/trustwallet/trust-wallet-ios/pull/743) on [trustwallet/trust-wallet-ios](https://github.com/trustwallet/trust-wallet-ios) (6 years ago)
 - [Add files via upload](https://github.com/trustwallet/tokens/pull/169) on [trustwallet/tokens](https://github.com/trustwallet/tokens) (6 years ago)
 - [Add Fitrova (FRV)](https://github.com/trustwallet/trust-ray/pull/302) on [trustwallet/trust-ray](https://github.com/trustwallet/trust-ray) (6 years ago)
@@ -50,16 +50,16 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
-- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes. (today)
-- [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo (today)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (today)
-- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (today)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (today)
-- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges. (today)
-- [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models (today)
-- [tailscale/setec](https://github.com/tailscale/setec) - A secrets management service that uses Tailscale for access control (today)
-- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (today)
-- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (1 day ago)
+- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes. (1 day ago)
+- [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo (1 day ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 day ago)
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (1 day ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 day ago)
+- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges. (1 day ago)
+- [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models (1 day ago)
+- [tailscale/setec](https://github.com/tailscale/setec) - A secrets management service that uses Tailscale for access control (1 day ago)
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (1 day ago)
+- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (2 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
