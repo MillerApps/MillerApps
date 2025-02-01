@@ -50,6 +50,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (today)
 - [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes. (1 day ago)
 - [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo (1 day ago)
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 day ago)
@@ -59,7 +60,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models (1 day ago)
 - [tailscale/setec](https://github.com/tailscale/setec) - A secrets management service that uses Tailscale for access control (1 day ago)
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (1 day ago)
-- [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile (2 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
