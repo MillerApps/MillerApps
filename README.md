@@ -6,7 +6,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👷 Check out what I'm currently working on
 
-- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (today)
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (1 day ago)
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea! (1 week ago)
 - [MillerApps/luaoutput](https://github.com/MillerApps/luaoutput) - My basic nvim plugin for running Lua files in a split! (1 month ago)
 - [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (1 month ago)
@@ -50,16 +50,16 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
-- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (today)
-- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes. (1 day ago)
-- [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo (1 day ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (1 day ago)
-- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (1 day ago)
-- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (1 day ago)
-- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges. (1 day ago)
-- [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models (1 day ago)
-- [tailscale/setec](https://github.com/tailscale/setec) - A secrets management service that uses Tailscale for access control (1 day ago)
-- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (1 day ago)
+- [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (1 day ago)
+- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes. (2 days ago)
+- [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo (2 days ago)
+- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 days ago)
+- [stefanzweifel/git-auto-commit-action](https://github.com/stefanzweifel/git-auto-commit-action) - Automatically commit and push changed files back to GitHub with this GitHub Action for the 80% use case. (2 days ago)
+- [muesli/markscribe](https://github.com/muesli/markscribe) - Your personal markdown scribe with template-engine and Git(Hub) &amp; RSS powers 📜 (2 days ago)
+- [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - :octocat: Improve your README.md profile with these amazing badges. (2 days ago)
+- [deepseek-ai/Janus](https://github.com/deepseek-ai/Janus) - Janus-Series: Unified Multimodal Understanding and Generation Models (2 days ago)
+- [tailscale/setec](https://github.com/tailscale/setec) - A secrets management service that uses Tailscale for access control (2 days ago)
+- [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell (2 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
