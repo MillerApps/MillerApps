@@ -66,11 +66,11 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👯 Check out some of my recent followers
 
+- [standardgalactic](https://github.com/standardgalactic)
 - [ramijames](https://github.com/ramijames)
 - [Neustradamus](https://github.com/Neustradamus)
 - [ipqwery](https://github.com/ipqwery)
 - [Ramyromel](https://github.com/Ramyromel)
-- [Khalilheyrani6367](https://github.com/Khalilheyrani6367)
 
 ### Skills  
 [![My Skills](https://skillicons.dev/icons?i=swift,md,git,apple,github,neovim)](https://skillicons.dev)
