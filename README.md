@@ -66,7 +66,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👯 Check out some of my recent followers
 
-- [blocage](https://github.com/blocage)
+- [Mubashir12392](https://github.com/Mubashir12392)
 - [JohnMwendwa](https://github.com/JohnMwendwa)
 - [standardgalactic](https://github.com/standardgalactic)
 - [ramijames](https://github.com/ramijames)
