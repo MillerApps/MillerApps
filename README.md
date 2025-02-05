@@ -50,6 +50,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (today)
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox] (2 days ago)
 - [learn-anything/learn-anything](https://github.com/learn-anything/learn-anything) - Organize world&#39;s knowledge, explore connections and curate learning paths (2 days ago)
 - [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) - Homebrew installation manager for nix-darwin (2 days ago)
@@ -59,7 +60,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [golang/go](https://github.com/golang/go) - The Go programming language (2 days ago)
 - [panr/hugo-theme-terminal](https://github.com/panr/hugo-theme-terminal) - A simple, retro theme for Hugo (3 days ago)
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites. (4 days ago)
-- [DeterminateSystems/update-flake-lock](https://github.com/DeterminateSystems/update-flake-lock) - Automatically refresh your Nix Flakes. (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
