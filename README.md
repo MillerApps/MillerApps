@@ -67,11 +67,11 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👯 Check out some of my recent followers
 
+- [blocage](https://github.com/blocage)
 - [Mubashir12392](https://github.com/Mubashir12392)
 - [JohnMwendwa](https://github.com/JohnMwendwa)
 - [standardgalactic](https://github.com/standardgalactic)
 - [ramijames](https://github.com/ramijames)
-- [Neustradamus](https://github.com/Neustradamus)
 
 ### Skills  
 [![My Skills](https://skillicons.dev/icons?i=swift,md,git,apple,github,neovim)](https://skillicons.dev)
@@ -107,6 +107,9 @@ Feel free to share your wisdom, help me stay on course, or simply connect for a 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/millerapps"><img src="https://github-readme-stats.vercel.app/api?username=millerapps&show_icons=true&hide=&count_private=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="millerapps's GitHub stats"  /></a>
+
+<br>
+
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=millerapps&theme=catppuccin-mocha" alt="GitHub Streak" /></a>
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
