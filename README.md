@@ -15,7 +15,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [MillerApps/swift-journey](https://github.com/MillerApps/swift-journey) - Excersim Swift (9 months ago)
 - [MillerApps/dodging-asteroids](https://github.com/MillerApps/dodging-asteroids) - 2d space adventure (10 months ago)
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (11 months ago)
-- [MillerApps/decoded](https://github.com/MillerApps/decoded) -  (1 year ago)
 
 #### 🌱 My latest projects
 
