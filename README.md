@@ -7,6 +7,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 #### 👷 Check out what I'm currently working on
 
 - [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (today)
+- [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper&#39;s color scheme / palette, image to pixel art, color palette extraction,  image upsacling with Adversarial Networks  and more image processing features (today)
 - [MillerApps/homebrew-tap](https://github.com/MillerApps/homebrew-tap) - MillerApps Tap (today)
 - [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (1 week ago)
 - [Psylar87/Psylar87.github.io](https://github.com/Psylar87/Psylar87.github.io) - My Jekyll Project (1 week ago)
@@ -15,7 +16,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [MillerApps/go-journey](https://github.com/MillerApps/go-journey) - My Journey Through Go, using Exercism (8 months ago)
 - [MillerApps/swift-journey](https://github.com/MillerApps/swift-journey) - Excersim Swift (9 months ago)
 - [MillerApps/dodging-asteroids](https://github.com/MillerApps/dodging-asteroids) - 2d space adventure (10 months ago)
-- [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast. (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -32,6 +32,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 🔭 Latest releases I've contributed to
 
+- [Achno/gowall](https://github.com/Achno/gowall) ([v0.2.0](https://github.com/Achno/gowall/releases/tag/v0.2.0), 1 week ago) - A tool to convert a Wallpaper&#39;s color scheme / palette, image to pixel art, color palette extraction,  image upsacling with Adversarial Networks  and more image processing features
 
 #### 🔨 My recent Pull Requests
 
