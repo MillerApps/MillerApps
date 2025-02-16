@@ -7,7 +7,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 #### 👷 Check out what I'm currently working on
 
 - [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (today)
-- [MillerApps/homebrew-gowall](https://github.com/MillerApps/homebrew-gowall) -  (1 day ago)
+- [MillerApps/homebrew-tap](https://github.com/MillerApps/homebrew-tap) -  (today)
 - [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (1 week ago)
 - [Psylar87/Psylar87.github.io](https://github.com/Psylar87/Psylar87.github.io) - My Jekyll Project (1 week ago)
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea! (3 weeks ago)
@@ -19,7 +19,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 🌱 My latest projects
 
-- [MillerApps/homebrew-gowall](https://github.com/MillerApps/homebrew-gowall) - 
+- [MillerApps/homebrew-tap](https://github.com/MillerApps/homebrew-tap) - 
 - [MillerApps/luaoutput](https://github.com/MillerApps/luaoutput) - My basic nvim plugin for running Lua files in a split!
 - [MillerApps/swift-journey](https://github.com/MillerApps/swift-journey) - Excersim Swift
 - [MillerApps/go-journey](https://github.com/MillerApps/go-journey) - My Journey Through Go, using Exercism
