@@ -35,6 +35,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 🔨 My recent Pull Requests
 
+- [feat: install with homebrew](https://github.com/Achno/gowall/pull/32) on [Achno/gowall](https://github.com/Achno/gowall) (today)
 - [[nix/en] update to string interpolation](https://github.com/adambard/learnxinyminutes-docs/pull/5240) on [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) (3 weeks ago)
 - [[Brew] Add Warp ](https://github.com/raycast/extensions/pull/11180) on [raycast/extensions](https://github.com/raycast/extensions) (11 months ago)
 - [Remove a few warnings](https://github.com/trustwallet/trust-wallet-ios/pull/743) on [trustwallet/trust-wallet-ios](https://github.com/trustwallet/trust-wallet-ios) (6 years ago)
@@ -42,7 +43,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [Add Fitrova (FRV)](https://github.com/trustwallet/trust-ray/pull/302) on [trustwallet/trust-ray](https://github.com/trustwallet/trust-ray) (6 years ago)
 - [Add SyncFab](https://github.com/trustwallet/trust-ray/pull/293) on [trustwallet/trust-ray](https://github.com/trustwallet/trust-ray) (6 years ago)
 - [Improve validation error display](https://github.com/trustwallet/trust-wallet-ios/pull/704) on [trustwallet/trust-wallet-ios](https://github.com/trustwallet/trust-wallet-ios) (6 years ago)
-- [Add Amon](https://github.com/trustwallet/trust-ray/pull/283) on [trustwallet/trust-ray](https://github.com/trustwallet/trust-ray) (6 years ago)
 
 #### 📓 Gists I wrote
 
