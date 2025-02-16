@@ -6,8 +6,8 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👷 Check out what I'm currently working on
 
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (today)
 - [MillerApps/homebrew-gowall](https://github.com/MillerApps/homebrew-gowall) -  (1 day ago)
-- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (2 days ago)
 - [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (1 week ago)
 - [Psylar87/Psylar87.github.io](https://github.com/Psylar87/Psylar87.github.io) - My Jekyll Project (1 week ago)
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea! (3 weeks ago)
