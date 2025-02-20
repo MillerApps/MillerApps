@@ -7,7 +7,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 #### 👷 Check out what I'm currently working on
 
 - [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (today)
-- [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper&#39;s color scheme / palette, image to pixel art, color palette extraction,  image upsacling with Adversarial Networks  and more image processing features (4 days ago)
+- [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper&#39;s color scheme / palette, image to pixel art, color palette extraction,  image upsacling with Adversarial Networks  and more image processing features (today)
 - [MillerApps/homebrew-tap](https://github.com/MillerApps/homebrew-tap) - MillerApps Tap (4 days ago)
 - [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (1 week ago)
 - [Psylar87/Psylar87.github.io](https://github.com/Psylar87/Psylar87.github.io) - My Jekyll Project (2 weeks ago)
@@ -36,6 +36,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 🔨 My recent Pull Requests
 
+- [chore: swtich to homebrew-core](https://github.com/Achno/gowall/pull/37) on [Achno/gowall](https://github.com/Achno/gowall) (today)
 - [feat: install with homebrew](https://github.com/Achno/gowall/pull/32) on [Achno/gowall](https://github.com/Achno/gowall) (4 days ago)
 - [[nix/en] update to string interpolation](https://github.com/adambard/learnxinyminutes-docs/pull/5240) on [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) (1 month ago)
 - [[Brew] Add Warp ](https://github.com/raycast/extensions/pull/11180) on [raycast/extensions](https://github.com/raycast/extensions) (11 months ago)
@@ -43,7 +44,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [Add files via upload](https://github.com/trustwallet/tokens/pull/169) on [trustwallet/tokens](https://github.com/trustwallet/tokens) (6 years ago)
 - [Add Fitrova (FRV)](https://github.com/trustwallet/trust-ray/pull/302) on [trustwallet/trust-ray](https://github.com/trustwallet/trust-ray) (6 years ago)
 - [Add SyncFab](https://github.com/trustwallet/trust-ray/pull/293) on [trustwallet/trust-ray](https://github.com/trustwallet/trust-ray) (6 years ago)
-- [Improve validation error display](https://github.com/trustwallet/trust-wallet-ios/pull/704) on [trustwallet/trust-wallet-ios](https://github.com/trustwallet/trust-wallet-ios) (6 years ago)
 
 #### 📓 Gists I wrote
 
