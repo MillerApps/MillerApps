@@ -6,14 +6,14 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👷 Check out what I'm currently working on
 
-- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (today)
-- [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper&#39;s color scheme / palette, image to pixel art, color palette extraction,  image upsacling with Adversarial Networks  and more image processing features (today)
-- [MillerApps/homebrew-tap](https://github.com/MillerApps/homebrew-tap) - MillerApps Tap (4 days ago)
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (1 day ago)
+- [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper&#39;s color scheme / palette, image to pixel art, color palette extraction,  image upsacling with Adversarial Networks  and more image processing features (1 day ago)
+- [MillerApps/homebrew-tap](https://github.com/MillerApps/homebrew-tap) - MillerApps Tap (5 days ago)
 - [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (1 week ago)
 - [Psylar87/Psylar87.github.io](https://github.com/Psylar87/Psylar87.github.io) - My Jekyll Project (2 weeks ago)
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea! (1 month ago)
-- [MillerApps/luaoutput](https://github.com/MillerApps/luaoutput) - My basic nvim plugin for running Lua files in a split! (1 month ago)
-- [MillerApps/go-journey](https://github.com/MillerApps/go-journey) - My Journey Through Go, using Exercism (8 months ago)
+- [MillerApps/luaoutput](https://github.com/MillerApps/luaoutput) - My basic nvim plugin for running Lua files in a split! (2 months ago)
+- [MillerApps/go-journey](https://github.com/MillerApps/go-journey) - My Journey Through Go, using Exercism (9 months ago)
 - [MillerApps/swift-journey](https://github.com/MillerApps/swift-journey) - Excersim Swift (9 months ago)
 - [MillerApps/dodging-asteroids](https://github.com/MillerApps/dodging-asteroids) - 2d space adventure (10 months ago)
 
@@ -36,8 +36,8 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 🔨 My recent Pull Requests
 
-- [chore: swtich to homebrew-core](https://github.com/Achno/gowall/pull/37) on [Achno/gowall](https://github.com/Achno/gowall) (today)
-- [feat: install with homebrew](https://github.com/Achno/gowall/pull/32) on [Achno/gowall](https://github.com/Achno/gowall) (4 days ago)
+- [chore: swtich to homebrew-core](https://github.com/Achno/gowall/pull/37) on [Achno/gowall](https://github.com/Achno/gowall) (1 day ago)
+- [feat: install with homebrew](https://github.com/Achno/gowall/pull/32) on [Achno/gowall](https://github.com/Achno/gowall) (5 days ago)
 - [[nix/en] update to string interpolation](https://github.com/adambard/learnxinyminutes-docs/pull/5240) on [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) (1 month ago)
 - [[Brew] Add Warp ](https://github.com/raycast/extensions/pull/11180) on [raycast/extensions](https://github.com/raycast/extensions) (11 months ago)
 - [Remove a few warnings](https://github.com/trustwallet/trust-wallet-ios/pull/743) on [trustwallet/trust-wallet-ios](https://github.com/trustwallet/trust-wallet-ios) (6 years ago)
@@ -52,13 +52,13 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
-- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents. (today)
-- [lukejanicke/ghostty-app-icon](https://github.com/lukejanicke/ghostty-app-icon) - An unofficial Ghostty app icon for macOS, based on the SVG logo from the Ghostty website (6 days ago)
+- [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents. (1 day ago)
+- [lukejanicke/ghostty-app-icon](https://github.com/lukejanicke/ghostty-app-icon) - An unofficial Ghostty app icon for macOS, based on the SVG logo from the Ghostty website (1 week ago)
 - [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper&#39;s color scheme / palette, image to pixel art, color palette extraction,  image upsacling with Adversarial Networks  and more image processing features (1 week ago)
 - [DeterminateSystems/nix-installer-action](https://github.com/DeterminateSystems/nix-installer-action) - The Github Action for the Determinate Nix Installer (1 week ago)
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 300&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (1 week ago)
 - [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files (1 week ago)
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations. (1 week ago)
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations. (2 weeks ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI (2 weeks ago)
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (2 weeks ago)
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox] (2 weeks ago)
