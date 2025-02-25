@@ -6,7 +6,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👷 Check out what I'm currently working on
 
-- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (1 day ago)
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (today)
 - [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper&#39;s color scheme / palette, image to pixel art, color palette extraction,  image upsacling with Adversarial Networks  and more image processing features (5 days ago)
 - [MillerApps/homebrew-tap](https://github.com/MillerApps/homebrew-tap) - MillerApps Tap (1 week ago)
 - [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (2 weeks ago)
@@ -52,6 +52,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
+- [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (today)
 - [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers (2 days ago)
 - [linkwarden/linkwarden](https://github.com/linkwarden/linkwarden) - ⚡️⚡️⚡️Self-hosted collaborative bookmark manager to collect, organize, and preserve webpages, articles, and documents. (5 days ago)
 - [lukejanicke/ghostty-app-icon](https://github.com/lukejanicke/ghostty-app-icon) - An unofficial Ghostty app icon for macOS, based on the SVG logo from the Ghostty website (1 week ago)
@@ -61,7 +62,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [rclone/rclone](https://github.com/rclone/rclone) - &#34;rsync for cloud storage&#34; - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files (2 weeks ago)
 - [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - LLM based autonomous agent that conducts deep local and web research on any topic and generates a long report with citations. (2 weeks ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI (2 weeks ago)
-- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
