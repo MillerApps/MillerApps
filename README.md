@@ -36,6 +36,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 🔨 My recent Pull Requests
 
+- [feat: inline with resizing](https://github.com/Achno/gowall/pull/40) on [Achno/gowall](https://github.com/Achno/gowall) (today)
 - [feat: kitty graphics inline (doesn&#39;t rely on kitten icat) #38](https://github.com/Achno/gowall/pull/39) on [Achno/gowall](https://github.com/Achno/gowall) (4 days ago)
 - [chore: swtich to homebrew-core](https://github.com/Achno/gowall/pull/37) on [Achno/gowall](https://github.com/Achno/gowall) (5 days ago)
 - [feat: install with homebrew](https://github.com/Achno/gowall/pull/32) on [Achno/gowall](https://github.com/Achno/gowall) (1 week ago)
@@ -43,7 +44,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [[Brew] Add Warp ](https://github.com/raycast/extensions/pull/11180) on [raycast/extensions](https://github.com/raycast/extensions) (11 months ago)
 - [Remove a few warnings](https://github.com/trustwallet/trust-wallet-ios/pull/743) on [trustwallet/trust-wallet-ios](https://github.com/trustwallet/trust-wallet-ios) (6 years ago)
 - [Add files via upload](https://github.com/trustwallet/tokens/pull/169) on [trustwallet/tokens](https://github.com/trustwallet/tokens) (6 years ago)
-- [Add Fitrova (FRV)](https://github.com/trustwallet/trust-ray/pull/302) on [trustwallet/trust-ray](https://github.com/trustwallet/trust-ray) (6 years ago)
 
 #### 📓 Gists I wrote
 
