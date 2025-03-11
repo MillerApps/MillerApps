@@ -6,8 +6,8 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👷 Check out what I'm currently working on
 
-- [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (today)
-- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (1 day ago)
+- [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (1 day ago)
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (2 days ago)
 - [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper&#39;s color scheme / palette, image to pixel art, color palette extraction,  image upsacling with Adversarial Networks  and more image processing features (1 week ago)
 - [MillerApps/homebrew-tap](https://github.com/MillerApps/homebrew-tap) - MillerApps Tap (3 weeks ago)
 - [Psylar87/Psylar87.github.io](https://github.com/Psylar87/Psylar87.github.io) - My Hugo Blog (1 month ago)
@@ -32,11 +32,11 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 🔭 Latest releases I've contributed to
 
-- [Achno/gowall](https://github.com/Achno/gowall) ([v0.2.0](https://github.com/Achno/gowall/releases/tag/v0.2.0), 4 weeks ago) - A tool to convert a Wallpaper&#39;s color scheme / palette, image to pixel art, color palette extraction,  image upsacling with Adversarial Networks  and more image processing features
+- [Achno/gowall](https://github.com/Achno/gowall) ([v0.2.0](https://github.com/Achno/gowall/releases/tag/v0.2.0), 1 month ago) - A tool to convert a Wallpaper&#39;s color scheme / palette, image to pixel art, color palette extraction,  image upsacling with Adversarial Networks  and more image processing features
 
 #### 🔨 My recent Pull Requests
 
-- [feat: inline with resizing](https://github.com/Achno/gowall/pull/40) on [Achno/gowall](https://github.com/Achno/gowall) (1 week ago)
+- [feat: inline with resizing](https://github.com/Achno/gowall/pull/40) on [Achno/gowall](https://github.com/Achno/gowall) (2 weeks ago)
 - [feat: kitty graphics inline (doesn&#39;t rely on kitten icat) #38](https://github.com/Achno/gowall/pull/39) on [Achno/gowall](https://github.com/Achno/gowall) (2 weeks ago)
 - [chore: swtich to homebrew-core](https://github.com/Achno/gowall/pull/37) on [Achno/gowall](https://github.com/Achno/gowall) (2 weeks ago)
 - [feat: install with homebrew](https://github.com/Achno/gowall/pull/32) on [Achno/gowall](https://github.com/Achno/gowall) (3 weeks ago)
@@ -52,15 +52,15 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (1 day ago)
-- [cristicretu/family-drawer](https://github.com/cristicretu/family-drawer) - Pure SwiftUI Family Drawer recreation! (5 days ago)
-- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (6 days ago)
+- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (2 days ago)
+- [cristicretu/family-drawer](https://github.com/cristicretu/family-drawer) - Pure SwiftUI Family Drawer recreation! (6 days ago)
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD (1 week ago)
 - [apple/swift-collections](https://github.com/apple/swift-collections) - Commonly used data structures for Swift (1 week ago)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (1 week ago)
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (1 week ago)
 - [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials (1 week ago)
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions (1 week ago)
-- [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (1 week ago)
+- [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (2 weeks ago)
 - [egonelbre/gophers](https://github.com/egonelbre/gophers) - Free gophers (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
