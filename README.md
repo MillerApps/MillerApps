@@ -52,6 +52,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch. (today)
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (3 days ago)
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool (3 days ago)
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (3 days ago)
@@ -61,7 +62,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [apple/swift-collections](https://github.com/apple/swift-collections) - Commonly used data structures for Swift (1 week ago)
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser (1 week ago)
 - [yorukot/superfile](https://github.com/yorukot/superfile) - Pretty fancy and modern terminal file manager (2 weeks ago)
-- [trufflesecurity/trufflehog](https://github.com/trufflesecurity/trufflehog) - Find, verify, and analyze leaked credentials (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
