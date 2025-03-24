@@ -6,8 +6,8 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👷 Check out what I'm currently working on
 
+- [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (today)
 - [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (1 day ago)
-- [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (2 weeks ago)
 - [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper&#39;s color scheme / palette, image to pixel art, color palette extraction,  image upsacling with Adversarial Networks  and more image processing features (3 weeks ago)
 - [MillerApps/homebrew-tap](https://github.com/MillerApps/homebrew-tap) - MillerApps Tap (1 month ago)
 - [Psylar87/Psylar87.github.io](https://github.com/Psylar87/Psylar87.github.io) - My Hugo Blog (1 month ago)
@@ -52,6 +52,8 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges (today)
+- [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (today)
 - [obsidian-nvim/obsidian.nvim](https://github.com/obsidian-nvim/obsidian.nvim) - Obsidian 🤝 Neovim (3 days ago)
 - [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer (3 days ago)
 - [CrossPaste/crosspaste-desktop](https://github.com/CrossPaste/crosspaste-desktop) - Universal Pasteboard Across Devices (6 days ago)
@@ -60,8 +62,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books (1 week ago)
 - [mfontanini/presenterm](https://github.com/mfontanini/presenterm) - A markdown terminal slideshow tool (1 week ago)
 - [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell. (1 week ago)
-- [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software. (2 weeks ago)
-- [cristicretu/family-drawer](https://github.com/cristicretu/family-drawer) - Pure SwiftUI Family Drawer recreation! (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
