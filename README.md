@@ -70,10 +70,10 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 #### 👯 Check out some of my recent followers
 
 - [riseansmal](https://github.com/riseansmal)
-- [brilliantstory2](https://github.com/brilliantstory2)
 - [misterrager8](https://github.com/misterrager8)
 - [0vm](https://github.com/0vm)
 - [isyuricunha](https://github.com/isyuricunha)
+- [Khalilheyrani](https://github.com/Khalilheyrani)
 
 ### Skills  
 [![My Skills](https://skillicons.dev/icons?i=swift,md,git,apple,github,neovim)](https://skillicons.dev)
