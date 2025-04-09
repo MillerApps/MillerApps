@@ -70,9 +70,9 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 - [riseansmal](https://github.com/riseansmal)
 - [misterrager8](https://github.com/misterrager8)
-- [0vm](https://github.com/0vm)
 - [isyuricunha](https://github.com/isyuricunha)
 - [lovethefunk123](https://github.com/lovethefunk123)
+- [13inccc](https://github.com/13inccc)
 
 ### Skills  
 [![My Skills](https://skillicons.dev/icons?i=swift,md,git,apple,github,neovim)](https://skillicons.dev)
