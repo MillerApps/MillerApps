@@ -6,7 +6,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👷 Check out what I'm currently working on
 
-- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (1 day ago)
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (2 days ago)
 - [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (3 weeks ago)
 - [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper&#39;s color scheme / palette, image to pixel art, color palette extraction,  image upsacling with Adversarial Networks  and more image processing features (1 month ago)
 - [MillerApps/homebrew-tap](https://github.com/MillerApps/homebrew-tap) - MillerApps Tap (1 month ago)
@@ -31,7 +31,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 🔭 Latest releases I've contributed to
 
-- [Achno/gowall](https://github.com/Achno/gowall) ([v0.2.1](https://github.com/Achno/gowall/releases/tag/v0.2.1), 2 days ago) - A tool to convert a Wallpaper&#39;s color scheme / palette, image to pixel art, color palette extraction,  image upsacling with Adversarial Networks  and more image processing features
+- [Achno/gowall](https://github.com/Achno/gowall) ([v0.2.1](https://github.com/Achno/gowall/releases/tag/v0.2.1), 3 days ago) - A tool to convert a Wallpaper&#39;s color scheme / palette, image to pixel art, color palette extraction,  image upsacling with Adversarial Networks  and more image processing features
 
 #### 🔨 My recent Pull Requests
 
@@ -60,7 +60,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A Jellyfin client built with Expo (2 weeks ago)
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS &amp; iOS file archiver (2 weeks ago)
 - [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty (2 weeks ago)
-- [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim (2 weeks ago)
+- [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
