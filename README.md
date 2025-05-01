@@ -68,11 +68,11 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👯 Check out some of my recent followers
 
-- [filedonkey](https://github.com/filedonkey)
 - [shemarf709](https://github.com/shemarf709)
 - [nholuongut](https://github.com/nholuongut)
 - [riseansmal](https://github.com/riseansmal)
 - [misterrager8](https://github.com/misterrager8)
+- [lovethefunk123](https://github.com/lovethefunk123)
 
 ### Skills  
 [![My Skills](https://skillicons.dev/icons?i=swift,md,git,apple,github,neovim)](https://skillicons.dev)
