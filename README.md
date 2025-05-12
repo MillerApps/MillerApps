@@ -14,7 +14,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea! (3 months ago)
 - [MillerApps/luaoutput](https://github.com/MillerApps/luaoutput) - My basic nvim plugin for running Lua files in a split! (4 months ago)
 - [MillerApps/go-journey](https://github.com/MillerApps/go-journey) - My Journey Through Go, using Exercism (11 months ago)
-- [MillerApps/swift-journey](https://github.com/MillerApps/swift-journey) - Excersim Swift (1 year ago)
 
 #### 🌱 My latest projects
 
