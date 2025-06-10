@@ -49,6 +49,8 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
+- [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (today)
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It&#39;s written in Swift, and optimized for Apple silicon.  (today)
 - [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers. (2 months ago)
 - [orhun/git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️  (2 months ago)
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time. (2 months ago)
@@ -57,8 +59,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [charm-and-friends/freeze.nvim](https://github.com/charm-and-friends/freeze.nvim) - A wrapper for charm&#39;s freeze cli tool for usage in neovim (2 months ago)
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A Jellyfin client built with Expo (2 months ago)
 - [aonez/Keka](https://github.com/aonez/Keka) - The macOS &amp; iOS file archiver (2 months ago)
-- [atanunq/viu](https://github.com/atanunq/viu) - Terminal image viewer with native support for iTerm and Kitty (2 months ago)
-- [mfussenegger/nvim-dap](https://github.com/mfussenegger/nvim-dap) - Debug Adapter Protocol client implementation for Neovim (2 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
