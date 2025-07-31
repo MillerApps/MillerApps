@@ -6,7 +6,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👷 Check out what I'm currently working on
 
-- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (3 days ago)
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (4 days ago)
 - [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (4 months ago)
 - [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper&#39;s color scheme / palette, image to pixel art, color palette extraction,  image upsacling with Adversarial Networks  and more image processing features (5 months ago)
 - [MillerApps/homebrew-tap](https://github.com/MillerApps/homebrew-tap) - MillerApps Tap (5 months ago)
@@ -62,15 +62,15 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [Psylar87](https://github.com/Psylar87) (4 months ago)
+- [Psylar87](https://github.com/Psylar87) (5 months ago)
 
 #### 👯 Check out some of my recent followers
 
-- [helallao](https://github.com/helallao)
 - [shemarf709](https://github.com/shemarf709)
 - [nholuongut](https://github.com/nholuongut)
 - [riseansmal](https://github.com/riseansmal)
 - [misterrager8](https://github.com/misterrager8)
+- [lovethefunk123](https://github.com/lovethefunk123)
 
 ### Skills  
 [![My Skills](https://skillicons.dev/icons?i=swift,md,git,apple,github,neovim)](https://skillicons.dev)
