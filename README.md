@@ -6,8 +6,8 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👷 Check out what I'm currently working on
 
-- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (today)
-- [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (6 months ago)
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (1 day ago)
+- [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (7 months ago)
 - [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper&#39;s color scheme / palette, OCR with VLM&#39;s Traditional &amp; Hybrid, Image Compression ,color palette extraction,  image upsacling with Adversarial Networks  and more image processing features. (7 months ago)
 - [MillerApps/homebrew-tap](https://github.com/MillerApps/homebrew-tap) - MillerApps Tap (8 months ago)
 - [Psylar87/Psylar87.github.io](https://github.com/Psylar87/Psylar87.github.io) - My Hugo Blog (8 months ago)
