@@ -29,7 +29,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 🔭 Latest releases I've contributed to
 
-- [Achno/gowall](https://github.com/Achno/gowall) ([v0.2.3](https://github.com/Achno/gowall/releases/tag/v0.2.3), 2 weeks ago) - A tool to convert a Wallpaper&#39;s color scheme / palette, OCR with VLM&#39;s Traditional &amp; Hybrid, Image Compression ,color palette extraction,  image upsacling with Adversarial Networks  and more image processing features.
+- [Achno/gowall](https://github.com/Achno/gowall) ([v0.2.3](https://github.com/Achno/gowall/releases/tag/v0.2.3), 3 weeks ago) - A tool to convert a Wallpaper&#39;s color scheme / palette, OCR with VLM&#39;s Traditional &amp; Hybrid, Image Compression ,color palette extraction,  image upsacling with Adversarial Networks  and more image processing features.
 
 #### 🔨 My recent Pull Requests
 
