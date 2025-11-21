@@ -58,7 +58,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher. (7 months ago)
 - [charm-and-friends/freeze.nvim](https://github.com/charm-and-friends/freeze.nvim) - A wrapper for charm&#39;s freeze cli tool for usage in neovim (7 months ago)
 - [streamyfin/streamyfin](https://github.com/streamyfin/streamyfin) - A modern Jellyfin client built with Expo (7 months ago)
-- [aonez/Keka](https://github.com/aonez/Keka) - The macOS &amp; iOS file archiver (7 months ago)
+- [aonez/Keka](https://github.com/aonez/Keka) - The macOS &amp; iOS file archiver (8 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
