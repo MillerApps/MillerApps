@@ -67,10 +67,10 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 #### 👯 Check out some of my recent followers
 
 - [S4IL21](https://github.com/S4IL21)
-- [XiaomingX](https://github.com/XiaomingX)
 - [SirJosh1987](https://github.com/SirJosh1987)
 - [CelaDaniel](https://github.com/CelaDaniel)
 - [emilycodestar](https://github.com/emilycodestar)
+- [shemarf709](https://github.com/shemarf709)
 
 ### Skills  
 [![My Skills](https://skillicons.dev/icons?i=swift,md,git,apple,github,neovim)](https://skillicons.dev)
