@@ -62,7 +62,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
-- [Psylar87](https://github.com/Psylar87) (9 months ago)
+- [Psylar87](https://github.com/Psylar87) (10 months ago)
 
 #### 👯 Check out some of my recent followers
 
