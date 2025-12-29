@@ -12,7 +12,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [MillerApps/homebrew-tap](https://github.com/MillerApps/homebrew-tap) - MillerApps Tap (10 months ago)
 - [Psylar87/Psylar87.github.io](https://github.com/Psylar87/Psylar87.github.io) - My Hugo Blog (10 months ago)
 - [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) - Code documentation written as code! How novel and totally my idea! (11 months ago)
-- [MillerApps/luaoutput](https://github.com/MillerApps/luaoutput) - My basic nvim plugin for running Lua files in a split! (1 year ago)
 
 #### 🌱 My latest projects
 
