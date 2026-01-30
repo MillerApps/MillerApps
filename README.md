@@ -47,6 +47,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (today)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (6 days ago)
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible (1 month ago)
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (7 months ago)
@@ -56,7 +57,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time. (10 months ago)
 - [mr-karan/doggo](https://github.com/mr-karan/doggo) - :dog: Command-line DNS Client for Humans. Written in Golang (10 months ago)
 - [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher. (10 months ago)
-- [charm-and-friends/freeze.nvim](https://github.com/charm-and-friends/freeze.nvim) - A wrapper for charm&#39;s freeze cli tool for usage in neovim (10 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
