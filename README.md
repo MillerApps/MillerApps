@@ -6,10 +6,10 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👷 Check out what I'm currently working on
 
-- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (4 days ago)
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (5 days ago)
 - [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (10 months ago)
 - [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper&#39;s color scheme / palette, OCR with VLM&#39;s Traditional &amp; Hybrid, Image Compression ,color palette extraction,  image upsacling with Adversarial Networks  and more image processing features. (11 months ago)
-- [MillerApps/homebrew-tap](https://github.com/MillerApps/homebrew-tap) - MillerApps Tap (11 months ago)
+- [MillerApps/homebrew-tap](https://github.com/MillerApps/homebrew-tap) - MillerApps Tap (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -33,7 +33,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [feat: inline with resizing](https://github.com/Achno/gowall/pull/40) on [Achno/gowall](https://github.com/Achno/gowall) (11 months ago)
 - [feat: kitty graphics inline (doesn&#39;t rely on kitten icat) #38](https://github.com/Achno/gowall/pull/39) on [Achno/gowall](https://github.com/Achno/gowall) (11 months ago)
 - [chore: swtich to homebrew-core](https://github.com/Achno/gowall/pull/37) on [Achno/gowall](https://github.com/Achno/gowall) (11 months ago)
-- [feat: install with homebrew](https://github.com/Achno/gowall/pull/32) on [Achno/gowall](https://github.com/Achno/gowall) (11 months ago)
+- [feat: install with homebrew](https://github.com/Achno/gowall/pull/32) on [Achno/gowall](https://github.com/Achno/gowall) (1 year ago)
 - [[nix/en] update to string interpolation](https://github.com/adambard/learnxinyminutes-docs/pull/5240) on [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) (1 year ago)
 - [[Brew] Add Warp ](https://github.com/raycast/extensions/pull/11180) on [raycast/extensions](https://github.com/raycast/extensions) (2 years ago)
 - [Remove a few warnings](https://github.com/trustwallet/trust-wallet-ios/pull/743) on [trustwallet/trust-wallet-ios](https://github.com/trustwallet/trust-wallet-ios) (7 years ago)
@@ -46,16 +46,16 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
-- [LeoKlaus/Paperparrot](https://github.com/LeoKlaus/Paperparrot) - A native Swift app to manage all your documents. Fully compatible with Paperless-ngx (2 days ago)
-- [chithi-dev/chithi](https://github.com/chithi-dev/chithi) - The next generation encrypted file sharing project (3 days ago)
-- [Termix-SSH/Mobile](https://github.com/Termix-SSH/Mobile) - Mobile version of the self-hosted server managment platform Termix. (3 days ago)
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. (4 days ago)
+- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization (1 day ago)
+- [LeoKlaus/Paperparrot](https://github.com/LeoKlaus/Paperparrot) - A native Swift app to manage all your documents. Fully compatible with Paperless-ngx (3 days ago)
+- [chithi-dev/chithi](https://github.com/chithi-dev/chithi) - The next generation encrypted file sharing project (4 days ago)
+- [Termix-SSH/Mobile](https://github.com/Termix-SSH/Mobile) - Mobile version of the self-hosted server managment platform Termix. (4 days ago)
+- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. (5 days ago)
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (1 week ago)
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (2 weeks ago)
 - [vicinaehq/vicinae](https://github.com/vicinaehq/vicinae) - A focused launcher for your desktop — native, fast, extensible (2 months ago)
 - [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (8 months ago)
 - [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (8 months ago)
-- [deskflow/deskflow](https://github.com/deskflow/deskflow) - Share a single keyboard and mouse between multiple computers. (10 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
