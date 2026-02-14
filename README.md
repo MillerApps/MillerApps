@@ -46,6 +46,9 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS (today)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (today)
+- [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS. (today)
 - [Santofer/Remindian](https://github.com/Santofer/Remindian) - Sync Obsidian Tasks with Apple Reminders — two-way sync for macOS (today)
 - [f/textream](https://github.com/f/textream) - Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. (today)
 - [mike-dev-stuff/hashmylinks](https://github.com/mike-dev-stuff/hashmylinks) - It&#39;s like linktree but stored in the URL (today)
@@ -53,9 +56,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [LeoKlaus/Paperparrot](https://github.com/LeoKlaus/Paperparrot) - A native Swift app to manage all your documents. Fully compatible with Paperless-ngx (6 days ago)
 - [chithi-dev/chithi](https://github.com/chithi-dev/chithi) - The next generation encrypted file sharing project (1 week ago)
 - [Termix-SSH/Mobile](https://github.com/Termix-SSH/Mobile) - Mobile version of the self-hosted server managment platform Termix. (1 week ago)
-- [Termix-SSH/Termix](https://github.com/Termix-SSH/Termix) - Termix is a web-based server management platform with SSH terminal, tunneling, and file editing capabilities. (1 week ago)
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞  (2 weeks ago)
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
