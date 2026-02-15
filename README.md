@@ -46,6 +46,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
+- [pkieszek/Kali-Linux-2025-UTM](https://github.com/pkieszek/Kali-Linux-2025-UTM) - Preconfigured Kali Linux 2025 template for UTM on Apple Silicon, updated as of July 29, 2025 with the latest official keys and sources from kali.org. (today)
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (today)
 - [steipete/gifgrep](https://github.com/steipete/gifgrep) - Grep the GIF. Stick the landing. (1 day ago)
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS (1 day ago)
@@ -55,7 +56,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [f/textream](https://github.com/f/textream) - Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. (1 day ago)
 - [mike-dev-stuff/hashmylinks](https://github.com/mike-dev-stuff/hashmylinks) - It&#39;s like linktree but stored in the URL (1 day ago)
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization (5 days ago)
-- [LeoKlaus/Paperparrot](https://github.com/LeoKlaus/Paperparrot) - A native Swift app to manage all your documents. Fully compatible with Paperless-ngx (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
