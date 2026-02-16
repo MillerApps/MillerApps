@@ -46,6 +46,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
+- [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn&#39;t. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute. (today)
 - [pkieszek/Kali-Linux-2025-UTM](https://github.com/pkieszek/Kali-Linux-2025-UTM) - Preconfigured Kali Linux 2025 template for UTM on Apple Silicon, updated as of July 29, 2025 with the latest official keys and sources from kali.org. (1 day ago)
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (1 day ago)
 - [steipete/gifgrep](https://github.com/steipete/gifgrep) - Grep the GIF. Stick the landing. (2 days ago)
@@ -55,7 +56,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [Santofer/Remindian](https://github.com/Santofer/Remindian) - Sync Obsidian Tasks with Apple Reminders — two-way sync for macOS (2 days ago)
 - [f/textream](https://github.com/f/textream) - Textream is a free macOS teleprompter app for streamers, interviewers, and presenters. It highlights your script in real-time as you speak, displayed in a beautiful Dynamic Island overlay. (2 days ago)
 - [mike-dev-stuff/hashmylinks](https://github.com/mike-dev-stuff/hashmylinks) - It&#39;s like linktree but stored in the URL (2 days ago)
-- [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization (6 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
