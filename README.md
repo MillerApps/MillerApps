@@ -50,12 +50,12 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users (1 day ago)
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI (1 day ago)
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn&#39;t. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute. (3 days ago)
-- [pkieszek/Kali-Linux-2025-UTM](https://github.com/pkieszek/Kali-Linux-2025-UTM) - Preconfigured Kali Linux 2025 template for UTM on Apple Silicon, updated as of July 29, 2025 with the latest official keys and sources from kali.org. (4 days ago)
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (4 days ago)
 - [steipete/gifgrep](https://github.com/steipete/gifgrep) - Grep the GIF. Stick the landing. (5 days ago)
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS (5 days ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (5 days ago)
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS. (5 days ago)
+- [Santofer/Remindian](https://github.com/Santofer/Remindian) - Sync Obsidian Tasks with Apple Reminders — two-way sync for macOS (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
