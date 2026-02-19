@@ -46,6 +46,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (today)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 day ago)
 - [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users (1 day ago)
 - [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI (1 day ago)
@@ -55,7 +56,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS (5 days ago)
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (5 days ago)
 - [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS. (5 days ago)
-- [Santofer/Remindian](https://github.com/Santofer/Remindian) - Sync Obsidian Tasks with Apple Reminders — two-way sync for macOS (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
