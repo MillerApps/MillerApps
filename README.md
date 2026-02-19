@@ -6,7 +6,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👷 Check out what I'm currently working on
 
-- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (today)
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (1 day ago)
 - [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (11 months ago)
 - [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper&#39;s color scheme / palette, OCR with VLM&#39;s Traditional &amp; Hybrid, Image Compression ,color palette extraction,  image upsacling with Adversarial Networks  and more image processing features. (11 months ago)
 - [MillerApps/homebrew-tap](https://github.com/MillerApps/homebrew-tap) - MillerApps Tap (1 year ago)
@@ -46,16 +46,16 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
-- [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users (today)
-- [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI (today)
-- [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn&#39;t. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute. (2 days ago)
-- [pkieszek/Kali-Linux-2025-UTM](https://github.com/pkieszek/Kali-Linux-2025-UTM) - Preconfigured Kali Linux 2025 template for UTM on Apple Silicon, updated as of July 29, 2025 with the latest official keys and sources from kali.org. (3 days ago)
-- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (3 days ago)
-- [steipete/gifgrep](https://github.com/steipete/gifgrep) - Grep the GIF. Stick the landing. (4 days ago)
-- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS (4 days ago)
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (4 days ago)
-- [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS. (4 days ago)
-- [Santofer/Remindian](https://github.com/Santofer/Remindian) - Sync Obsidian Tasks with Apple Reminders — two-way sync for macOS (4 days ago)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 day ago)
+- [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users (1 day ago)
+- [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI (1 day ago)
+- [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn&#39;t. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute. (3 days ago)
+- [pkieszek/Kali-Linux-2025-UTM](https://github.com/pkieszek/Kali-Linux-2025-UTM) - Preconfigured Kali Linux 2025 template for UTM on Apple Silicon, updated as of July 29, 2025 with the latest official keys and sources from kali.org. (4 days ago)
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (4 days ago)
+- [steipete/gifgrep](https://github.com/steipete/gifgrep) - Grep the GIF. Stick the landing. (5 days ago)
+- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS (5 days ago)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘 (5 days ago)
+- [Ranchero-Software/NetNewsWire](https://github.com/Ranchero-Software/NetNewsWire) - RSS reader for macOS and iOS. (5 days ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
