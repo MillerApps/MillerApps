@@ -46,6 +46,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
+- [goodroot/hyprwhspr](https://github.com/goodroot/hyprwhspr) -  Native speech-to-text for Linux - Fast, accurate and private system-wide dictation (today)
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (1 day ago)
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio powered by Qwen3-TTS. (1 day ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (2 days ago)
@@ -55,7 +56,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn&#39;t. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute. (5 days ago)
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (6 days ago)
 - [steipete/gifgrep](https://github.com/steipete/gifgrep) - Grep the GIF. Stick the landing. (1 week ago)
-- [utmapp/UTM](https://github.com/utmapp/UTM) - Virtual machines for iOS and macOS (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
