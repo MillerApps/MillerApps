@@ -6,7 +6,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👷 Check out what I'm currently working on
 
-- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (1 day ago)
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (2 days ago)
 - [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (11 months ago)
 - [Achno/gowall](https://github.com/Achno/gowall) - A tool to convert a Wallpaper&#39;s color scheme / palette, OCR with VLM&#39;s Traditional &amp; Hybrid, Image Compression ,color palette extraction,  image upsacling with Adversarial Networks  and more image processing features. (1 year ago)
 
@@ -45,14 +45,14 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
-- [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource. (1 day ago)
-- [goodroot/hyprwhspr](https://github.com/goodroot/hyprwhspr) -  Native speech-to-text for Linux - Fast, accurate and private system-wide dictation (2 days ago)
-- [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (3 days ago)
-- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio powered by Qwen3-TTS. (3 days ago)
-- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (4 days ago)
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (5 days ago)
-- [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users (5 days ago)
-- [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI (5 days ago)
+- [ronitsingh10/FineTune](https://github.com/ronitsingh10/FineTune) - FineTune, a macOS menu bar app for per-app volume control, multi-device output, audio routing, and 10-band EQ. Free and open-source alternative to SoundSource. (2 days ago)
+- [goodroot/hyprwhspr](https://github.com/goodroot/hyprwhspr) -  Native speech-to-text for Linux - Fast, accurate and private system-wide dictation (3 days ago)
+- [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (4 days ago)
+- [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio powered by Qwen3-TTS. (4 days ago)
+- [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (5 days ago)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (6 days ago)
+- [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users (6 days ago)
+- [icereed/paperless-gpt](https://github.com/icereed/paperless-gpt) - Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI (6 days ago)
 - [sheeki03/tirith](https://github.com/sheeki03/tirith) - Your browser catches homograph attacks. Your terminal doesn&#39;t. Tirith guards the gate — intercepts suspicious URLs, ANSI injection, and pipe-to-shell attacks before they execute. (1 week ago)
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (1 week ago)
 
