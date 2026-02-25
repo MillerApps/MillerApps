@@ -45,6 +45,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
+- [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates (today)
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command (1 day ago)
 - [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶 (1 day ago)
 - [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network (1 day ago)
@@ -54,7 +55,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio powered by Qwen3-TTS. (5 days ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (6 days ago)
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 week ago)
-- [surge-downloader/Surge](https://github.com/surge-downloader/Surge) - Blazing fast TUI download manager built in Go for power users (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
