@@ -45,6 +45,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
+- [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration. (today)
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates (1 day ago)
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command (2 days ago)
 - [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶 (2 days ago)
@@ -54,7 +55,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (6 days ago)
 - [jamiepine/voicebox](https://github.com/jamiepine/voicebox) - The open-source voice synthesis studio powered by Qwen3-TTS. (6 days ago)
 - [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! (1 week ago)
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
