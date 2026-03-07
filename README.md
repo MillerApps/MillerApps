@@ -43,6 +43,8 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
+- [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) - Counter-Strike: 2 Offset Dumper (today)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (today)
 - [SoundLeaf/SoundLeafApp](https://github.com/SoundLeaf/SoundLeafApp) - SoundLeaf iOS App Issues and Feature tracker (4 days ago)
 - [rmcrackan/Libation](https://github.com/rmcrackan/Libation) - Libation: Liberate your Library (4 days ago)
 - [hzqtc/taproom](https://github.com/hzqtc/taproom) - An interactive TUI for Homebrew (1 week ago)
@@ -51,8 +53,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration. (1 week ago)
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates (1 week ago)
 - [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command (1 week ago)
-- [TheBoredTeam/boring.notch](https://github.com/TheBoredTeam/boring.notch) - TheBoringNotch: Not so boring notch That Rocks 🎸🎶 (1 week ago)
-- [yggdrasil-network/yggdrasil-go](https://github.com/yggdrasil-network/yggdrasil-go) - An experiment in scalable routing as an encrypted IPv6 overlay network (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
