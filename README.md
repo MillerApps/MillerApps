@@ -43,6 +43,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
+- [vanloctech/youwee](https://github.com/vanloctech/youwee) - A beautiful, cross-platform downloader for YouTube, TikTok, Instagram, and 1800&#43; sites (yt-dlp GUI) with AI video summaries and post-processing (today)
 - [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) - Counter-Strike: 2 Offset Dumper (2 days ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 days ago)
 - [SoundLeaf/SoundLeafApp](https://github.com/SoundLeaf/SoundLeafApp) - SoundLeaf iOS App Issues and Feature tracker (6 days ago)
@@ -52,7 +53,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (1 week ago)
 - [francescopace/espectre](https://github.com/francescopace/espectre) - 🛜 ESPectre 👻  - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration. (1 week ago)
 - [nicholas-fedor/watchtower](https://github.com/nicholas-fedor/watchtower) - Automate Docker container image updates (1 week ago)
-- [lsd-rs/lsd](https://github.com/lsd-rs/lsd) - The next gen ls command (1 week ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
