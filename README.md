@@ -6,8 +6,8 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👷 Check out what I'm currently working on
 
-- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (2 days ago)
-- [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (1 week ago)
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (3 days ago)
+- [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -27,7 +27,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 🔨 My recent Pull Requests
 
-- [chore: bump homebrew version to 5.1.0](https://github.com/zhaofengli/nix-homebrew/pull/129) on [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) (1 day ago)
+- [chore: bump homebrew version to 5.1.0](https://github.com/zhaofengli/nix-homebrew/pull/129) on [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) (2 days ago)
 - [feat: inline with resizing](https://github.com/Achno/gowall/pull/40) on [Achno/gowall](https://github.com/Achno/gowall) (1 year ago)
 - [feat: kitty graphics inline (doesn&#39;t rely on kitten icat) #38](https://github.com/Achno/gowall/pull/39) on [Achno/gowall](https://github.com/Achno/gowall) (1 year ago)
 - [chore: swtich to homebrew-core](https://github.com/Achno/gowall/pull/37) on [Achno/gowall](https://github.com/Achno/gowall) (1 year ago)
@@ -43,15 +43,15 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
-- [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style. (2 days ago)
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter. (2 days ago)
-- [vanloctech/youwee](https://github.com/vanloctech/youwee) - A beautiful, cross-platform downloader for YouTube, TikTok, Instagram, and 1800&#43; sites (yt-dlp GUI) with AI video summaries and post-processing (3 days ago)
-- [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) - Counter-Strike: 2 Offset Dumper (5 days ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (5 days ago)
+- [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style. (3 days ago)
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter. (3 days ago)
+- [vanloctech/youwee](https://github.com/vanloctech/youwee) - A beautiful, cross-platform downloader for YouTube, TikTok, Instagram, and 1800&#43; sites (yt-dlp GUI) with AI video summaries and post-processing (4 days ago)
+- [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) - Counter-Strike: 2 Offset Dumper (6 days ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (6 days ago)
 - [SoundLeaf/SoundLeafApp](https://github.com/SoundLeaf/SoundLeafApp) - SoundLeaf iOS App Issues and Feature tracker (1 week ago)
 - [rmcrackan/Libation](https://github.com/rmcrackan/Libation) - Libation: Liberate your Library (1 week ago)
 - [hzqtc/taproom](https://github.com/hzqtc/taproom) - An interactive TUI for Homebrew (1 week ago)
-- [leiweibau/Pi.Alert](https://github.com/leiweibau/Pi.Alert) - Scan the devices connected to your WIFI / LAN and alert you the connection of unknown devices. It also warns if a &#34;always connected&#34; device disconnects. In addition, it is possible to check web services for availability. For this purpose HTTP status codes and the response time of the service are evaluated. (1 week ago)
+- [leiweibau/Pi.Alert](https://github.com/leiweibau/Pi.Alert) - Scan the devices connected to your WIFI / LAN and alert you the connection of unknown devices. It also warns if a &#34;always connected&#34; device disconnects. In addition, it is possible to check web services for availability. For this purpose HTTP status codes and the response time of the service are evaluated. (2 weeks ago)
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (2 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
