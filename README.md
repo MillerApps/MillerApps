@@ -6,7 +6,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👷 Check out what I'm currently working on
 
-- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (4 days ago)
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (5 days ago)
 - [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -27,7 +27,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 🔨 My recent Pull Requests
 
-- [chore: bump homebrew version to 5.1.0](https://github.com/zhaofengli/nix-homebrew/pull/129) on [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) (3 days ago)
+- [chore: bump homebrew version to 5.1.0](https://github.com/zhaofengli/nix-homebrew/pull/129) on [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) (4 days ago)
 - [feat: inline with resizing](https://github.com/Achno/gowall/pull/40) on [Achno/gowall](https://github.com/Achno/gowall) (1 year ago)
 - [feat: kitty graphics inline (doesn&#39;t rely on kitten icat) #38](https://github.com/Achno/gowall/pull/39) on [Achno/gowall](https://github.com/Achno/gowall) (1 year ago)
 - [chore: swtich to homebrew-core](https://github.com/Achno/gowall/pull/37) on [Achno/gowall](https://github.com/Achno/gowall) (1 year ago)
@@ -43,9 +43,9 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
-- [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style. (4 days ago)
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter. (4 days ago)
-- [vanloctech/youwee](https://github.com/vanloctech/youwee) - A beautiful, cross-platform downloader for YouTube, TikTok, Instagram, and 1800&#43; sites (yt-dlp GUI) with AI video summaries and post-processing (5 days ago)
+- [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style. (5 days ago)
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter. (5 days ago)
+- [vanloctech/youwee](https://github.com/vanloctech/youwee) - A beautiful, cross-platform downloader for YouTube, TikTok, Instagram, and 1800&#43; sites (yt-dlp GUI) with AI video summaries and post-processing (6 days ago)
 - [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) - Counter-Strike: 2 Offset Dumper (1 week ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago)
 - [SoundLeaf/SoundLeafApp](https://github.com/SoundLeaf/SoundLeafApp) - SoundLeaf iOS App Issues and Feature tracker (1 week ago)
