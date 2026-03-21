@@ -6,7 +6,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👷 Check out what I'm currently working on
 
-- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (today)
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (1 day ago)
 - [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -46,11 +46,11 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style. (1 week ago)
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter. (1 week ago)
 - [vanloctech/youwee](https://github.com/vanloctech/youwee) - A beautiful, cross-platform downloader for YouTube, TikTok, Instagram, and 1800&#43; sites (yt-dlp GUI) with AI video summaries and post-processing (1 week ago)
-- [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) - Counter-Strike: 2 Offset Dumper (1 week ago)
-- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (1 week ago)
+- [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) - Counter-Strike: 2 Offset Dumper (2 weeks ago)
+- [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 weeks ago)
 - [SoundLeaf/SoundLeafApp](https://github.com/SoundLeaf/SoundLeafApp) - SoundLeaf iOS App Issues and Feature tracker (2 weeks ago)
 - [rmcrackan/Libation](https://github.com/rmcrackan/Libation) - Libation: Liberate your Library (2 weeks ago)
-- [hzqtc/taproom](https://github.com/hzqtc/taproom) - An interactive TUI for Homebrew (2 weeks ago)
+- [hzqtc/taproom](https://github.com/hzqtc/taproom) - An interactive TUI for Homebrew (3 weeks ago)
 - [leiweibau/Pi.Alert](https://github.com/leiweibau/Pi.Alert) - Scan the devices connected to your WIFI / LAN and alert you the connection of unknown devices. It also warns if a &#34;always connected&#34; device disconnects. In addition, it is possible to check web services for availability. For this purpose HTTP status codes and the response time of the service are evaluated. (3 weeks ago)
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (3 weeks ago)
 
