@@ -27,6 +27,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 🔨 My recent Pull Requests
 
+- [chore: Update Paneru to version 0.3.7](https://github.com/karinushka/homebrew-paneru/pull/1) on [karinushka/homebrew-paneru](https://github.com/karinushka/homebrew-paneru) (today)
 - [[WIP] chore: bump homebrew version to 5.1.0](https://github.com/zhaofengli/nix-homebrew/pull/129) on [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) (2 weeks ago)
 - [feat: inline with resizing](https://github.com/Achno/gowall/pull/40) on [Achno/gowall](https://github.com/Achno/gowall) (1 year ago)
 - [feat: kitty graphics inline (doesn&#39;t rely on kitten icat) #38](https://github.com/Achno/gowall/pull/39) on [Achno/gowall](https://github.com/Achno/gowall) (1 year ago)
@@ -34,7 +35,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [feat: install with homebrew](https://github.com/Achno/gowall/pull/32) on [Achno/gowall](https://github.com/Achno/gowall) (1 year ago)
 - [[nix/en] update to string interpolation](https://github.com/adambard/learnxinyminutes-docs/pull/5240) on [adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs) (1 year ago)
 - [[Brew] Add Warp ](https://github.com/raycast/extensions/pull/11180) on [raycast/extensions](https://github.com/raycast/extensions) (2 years ago)
-- [Remove a few warnings](https://github.com/trustwallet/trust-wallet-ios/pull/743) on [trustwallet/trust-wallet-ios](https://github.com/trustwallet/trust-wallet-ios) (7 years ago)
 
 #### 📓 Gists I wrote
 
