@@ -43,6 +43,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
+- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (today)
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS. (3 days ago)
 - [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that&#39;s developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation. (3 days ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (3 days ago)
@@ -52,7 +53,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [a2x/cs2-dumper](https://github.com/a2x/cs2-dumper) - Counter-Strike: 2 Offset Dumper (2 weeks ago)
 - [charmbracelet/glow](https://github.com/charmbracelet/glow) - Render markdown on the CLI, with pizzazz! 💅🏻 (2 weeks ago)
 - [SoundLeaf/SoundLeafApp](https://github.com/SoundLeaf/SoundLeafApp) - SoundLeaf iOS App Issues and Feature tracker (3 weeks ago)
-- [rmcrackan/Libation](https://github.com/rmcrackan/Libation) - Libation: Liberate your Library (3 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
