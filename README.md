@@ -38,6 +38,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 📓 Gists I wrote
 
+- [Pam setup macos](https://gist.github.com/2f3553442b56546a922042a5a6273f10) (today)
 - [Karabiner Elements hyperKey &#43; v Vim binds](https://gist.github.com/d6bcde93678b9f5a7c5979e184d0148b) (2 years ago)
 - [Karabiner Elements HyperKey mapped to Caps Lock](https://gist.github.com/ac8ec045f9c4fd21e829f92f960aa522) (2 years ago)
 
