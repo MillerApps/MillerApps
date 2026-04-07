@@ -53,7 +53,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that&#39;s developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation. (2 weeks ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (2 weeks ago)
 - [hotheadhacker/no-as-a-service](https://github.com/hotheadhacker/no-as-a-service) - No-as-a-Service (NaaS) is a simple API that returns a random rejection reason. Use it when you need a realistic excuse, a fun “no,” or want to simulate being turned down in style. (4 weeks ago)
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ED2K. Cross-platform, built with Golang and Flutter. (4 weeks ago)
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) -   A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter. (4 weeks ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
