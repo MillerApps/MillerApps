@@ -6,7 +6,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👷 Check out what I'm currently working on
 
-- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (4 days ago)
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (5 days ago)
 - [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (1 month ago)
 
 #### 🌱 My latest projects
@@ -38,7 +38,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 📓 Gists I wrote
 
-- [Pam setup macos](https://gist.github.com/2f3553442b56546a922042a5a6273f10) (2 weeks ago)
+- [Pam setup macos](https://gist.github.com/2f3553442b56546a922042a5a6273f10) (3 weeks ago)
 - [Karabiner Elements hyperKey &#43; v Vim binds](https://gist.github.com/d6bcde93678b9f5a7c5979e184d0148b) (2 years ago)
 - [Karabiner Elements HyperKey mapped to Caps Lock](https://gist.github.com/ac8ec045f9c4fd21e829f92f960aa522) (2 years ago)
 
