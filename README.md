@@ -6,7 +6,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👷 Check out what I'm currently working on
 
-- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (3 days ago)
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (4 days ago)
 - [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (4 months ago)
 
 #### 🌱 My latest projects
@@ -27,7 +27,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 🔨 My recent Pull Requests
 
-- [chore: Update Paneru to version 0.3.7](https://github.com/karinushka/homebrew-paneru/pull/1) on [karinushka/homebrew-paneru](https://github.com/karinushka/homebrew-paneru) (3 months ago)
+- [chore: Update Paneru to version 0.3.7](https://github.com/karinushka/homebrew-paneru/pull/1) on [karinushka/homebrew-paneru](https://github.com/karinushka/homebrew-paneru) (4 months ago)
 - [[WIP] chore: bump homebrew version to 5.1.0](https://github.com/zhaofengli/nix-homebrew/pull/129) on [zhaofengli/nix-homebrew](https://github.com/zhaofengli/nix-homebrew) (4 months ago)
 - [feat: inline with resizing](https://github.com/Achno/gowall/pull/40) on [Achno/gowall](https://github.com/Achno/gowall) (1 year ago)
 - [feat: kitty graphics inline (doesn&#39;t rely on kitten icat) #38](https://github.com/Achno/gowall/pull/39) on [Achno/gowall](https://github.com/Achno/gowall) (1 year ago)
@@ -44,7 +44,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
-- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (1 month ago)
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (2 months ago)
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo. (2 months ago)
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording (3 months ago)
 - [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider&#39;s Guide (3 months ago)
