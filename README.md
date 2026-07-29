@@ -6,7 +6,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👷 Check out what I'm currently working on
 
-- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (2 days ago)
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (3 days ago)
 - [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (5 months ago)
 
 #### 🌱 My latest projects
@@ -45,10 +45,10 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 #### ⭐ Recent Stars
 
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (2 months ago)
-- [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo. (2 months ago)
+- [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo. (3 months ago)
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording (3 months ago)
 - [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider&#39;s Guide (3 months ago)
-- [jelly-ssh/jelly-ssh](https://github.com/jelly-ssh/jelly-ssh) - Jelly is a SSH social network (3 months ago)
+- [jelly-ssh/jelly-ssh](https://github.com/jelly-ssh/jelly-ssh) - Jelly is a SSH social network (4 months ago)
 - [SinTan1729/chhoto-url](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust. (4 months ago)
 - [HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone&#39;s Face ID or fingerprint to approve sudo and unlock your Mac. QR pairing, encrypted BLE, Secure Enclave signing — keys never leave your phone. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. No $199 Magic Keyboard needed. (4 months ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (4 months ago)
