@@ -53,7 +53,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone&#39;s Face ID or fingerprint to approve sudo and unlock your Mac. QR pairing, encrypted BLE, Secure Enclave signing — keys never leave your phone. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. No $199 Magic Keyboard needed. (5 months ago)
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (5 months ago)
 - [karinushka/paneru](https://github.com/karinushka/paneru) - A sliding, tiling window manager for MacOS. (5 months ago)
-- [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - MacOS Niri and Hyprland inspired tiling window manager that&#39;s developer signed and notorized (safe for managed enterprise environments). Aiming for parity and extra innovation. (5 months ago)
+- [BarutSRB/OmniWM](https://github.com/BarutSRB/OmniWM) - Free, open-source tiling window manager for Apple Silicon Macs, with Niri-style scrolling containers and Hyprland-style Dwindle BSP. (5 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
