@@ -6,7 +6,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👷 Check out what I'm currently working on
 
-- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (5 days ago)
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (6 days ago)
 - [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (7 months ago)
 
 #### 🌱 My latest projects
@@ -61,11 +61,11 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👯 Check out some of my recent followers
 
+- [standardgalactic](https://github.com/standardgalactic)
 - [kpopdev](https://github.com/kpopdev)
 - [sabahmax-3](https://github.com/sabahmax-3)
 - [liesbethbelmokhtar203-source](https://github.com/liesbethbelmokhtar203-source)
 - [Lxcardoza993](https://github.com/Lxcardoza993)
-- [ShamuoonHaider](https://github.com/ShamuoonHaider)
 
 ### Skills  
 [![My Skills](https://skillicons.dev/icons?i=swift,md,git,apple,github,neovim)](https://skillicons.dev)
