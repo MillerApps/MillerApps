@@ -44,6 +44,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
+- [lab421/forel](https://github.com/lab421/forel) - File automation for macOS. The open source Hazel alternative for macOS. (today)
 - [fif7y/pelmet](https://github.com/fif7y/pelmet) - A calm menu bar, done the native way. Hides the icons you don&#39;t need until you do. (2 weeks ago)
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. (2 weeks ago)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (4 months ago)
@@ -53,7 +54,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [jelly-ssh/jelly-ssh](https://github.com/jelly-ssh/jelly-ssh) - Jelly is a SSH social network (6 months ago)
 - [SinTan1729/chhoto-url](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, selfhosted URL shortener with no unnecessary features; written in Rust (6 months ago)
 - [HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone&#39;s Face ID or fingerprint to approve sudo and unlock your Mac. QR pairing, encrypted BLE, Secure Enclave signing — keys never leave your phone. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. No $199 Magic Keyboard needed. (6 months ago)
-- [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)  (6 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
