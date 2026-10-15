@@ -45,7 +45,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 #### ⭐ Recent Stars
 
 - [lab421/forel](https://github.com/lab421/forel) - File automation for macOS. The open source Hazel alternative for macOS. (1 week ago)
-- [fif7y/pelmet](https://github.com/fif7y/pelmet) - A calm menu bar, done the native way. Hides the icons you don&#39;t need until you do. (1 month ago)
+- [fif7y/pliss](https://github.com/fif7y/pliss) - A calm menu bar, done the native way. Hides the icons you don&#39;t need until you do. (1 month ago)
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history. (1 month ago)
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you (4 months ago)
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo. (5 months ago)
