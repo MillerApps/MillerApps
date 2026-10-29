@@ -64,8 +64,8 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [standardgalactic](https://github.com/standardgalactic)
 - [kpopdev](https://github.com/kpopdev)
 - [sabahmax-3](https://github.com/sabahmax-3)
-- [liesbethbelmokhtar203-source](https://github.com/liesbethbelmokhtar203-source)
 - [Lxcardoza993](https://github.com/Lxcardoza993)
+- [ShamuoonHaider](https://github.com/ShamuoonHaider)
 
 ### Skills  
 [![My Skills](https://skillicons.dev/icons?i=swift,md,git,apple,github,neovim)](https://skillicons.dev)
