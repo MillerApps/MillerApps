@@ -61,11 +61,11 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👯 Check out some of my recent followers
 
+- [Kos-M](https://github.com/Kos-M)
 - [aramisjustin068](https://github.com/aramisjustin068)
 - [liesbethbelmokhtar203-source](https://github.com/liesbethbelmokhtar203-source)
 - [standardgalactic](https://github.com/standardgalactic)
 - [kpopdev](https://github.com/kpopdev)
-- [sabahmax-3](https://github.com/sabahmax-3)
 
 ### Skills  
 [![My Skills](https://skillicons.dev/icons?i=swift,md,git,apple,github,neovim)](https://skillicons.dev)
