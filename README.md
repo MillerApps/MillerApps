@@ -44,6 +44,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
+- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale&#39;s data plane, without Tailscale&#39;s control plane (today)
 - [lab421/forel](https://github.com/lab421/forel) - File automation for macOS. The open source Hazel alternative for macOS. (1 month ago)
 - [fif7y/dimble](https://github.com/fif7y/dimble) - A calm menu bar, done the native way. Hides the icons you don&#39;t need until you do. (2 months ago)
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source. (2 months ago)
@@ -53,7 +54,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider&#39;s Guide (7 months ago)
 - [jelly-ssh/jelly-ssh](https://github.com/jelly-ssh/jelly-ssh) - Jelly is a SSH social network (7 months ago)
 - [SinTan1729/chhoto-url](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, self-hosted URL shortener with no unnecessary features; written in Rust (7 months ago)
-- [HMAKT99/UnTouchID](https://github.com/HMAKT99/UnTouchID) - Use your phone&#39;s Face ID or fingerprint to approve sudo and unlock your Mac. QR pairing, encrypted BLE, Secure Enclave signing — keys never leave your phone. Works with iPhone, Android, Apple Watch, Wear OS, or any browser. No $199 Magic Keyboard needed. (7 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
