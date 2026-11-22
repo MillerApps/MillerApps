@@ -6,7 +6,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👷 Check out what I'm currently working on
 
-- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (6 days ago)
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (1 week ago)
 - [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (8 months ago)
 
 #### 🌱 My latest projects
@@ -38,13 +38,13 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 📓 Gists I wrote
 
-- [Pam setup macos](https://gist.github.com/2f3553442b56546a922042a5a6273f10) (7 months ago)
+- [Pam setup macos](https://gist.github.com/2f3553442b56546a922042a5a6273f10) (8 months ago)
 - [Karabiner Elements hyperKey &#43; v Vim binds](https://gist.github.com/d6bcde93678b9f5a7c5979e184d0148b) (2 years ago)
 - [Karabiner Elements HyperKey mapped to Caps Lock](https://gist.github.com/ac8ec045f9c4fd21e829f92f960aa522) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale&#39;s data plane, without Tailscale&#39;s control plane (6 days ago)
+- [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale&#39;s data plane, without Tailscale&#39;s control plane (1 week ago)
 - [lab421/forel](https://github.com/lab421/forel) - File automation for macOS. The open source Hazel alternative for macOS. (1 month ago)
 - [fif7y/dimble](https://github.com/fif7y/dimble) - A calm menu bar, done the native way. Hides the icons you don&#39;t need until you do. (2 months ago)
 - [abue-ammar/tinycast](https://github.com/abue-ammar/tinycast) - A native macOS launcher for everyday productivity. Lightweight and open source. (2 months ago)
