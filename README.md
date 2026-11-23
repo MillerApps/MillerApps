@@ -6,7 +6,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### 👷 Check out what I'm currently working on
 
-- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (today)
+- [MillerApps/dotfiles](https://github.com/MillerApps/dotfiles) - Possibly the most overkill config setup I&#39;ve had to date! (1 day ago)
 - [MillerApps/MillerApps.github.io](https://github.com/MillerApps/MillerApps.github.io) - Personal site (8 months ago)
 
 #### 🌱 My latest projects
@@ -53,7 +53,7 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording (7 months ago)
 - [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider&#39;s Guide (7 months ago)
 - [jelly-ssh/jelly-ssh](https://github.com/jelly-ssh/jelly-ssh) - Jelly is a SSH social network (7 months ago)
-- [SinTan1729/chhoto-url](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, self-hosted URL shortener with no unnecessary features; written in Rust (7 months ago)
+- [SinTan1729/chhoto-url](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, self-hosted URL shortener with no unnecessary features; written in Rust (8 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
