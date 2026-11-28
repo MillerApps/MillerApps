@@ -44,6 +44,8 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 
 #### ⭐ Recent Stars
 
+- [ddalcu/mlx-serve](https://github.com/ddalcu/mlx-serve) - Native LLM inference server for Apple Silicon. OpenAI &#43; Anthropic API compatible. No Python. Zig backend, Swift frontend macOS app with chat, music, voice, video generation. (today)
+- [mh-mobile/RoamRun](https://github.com/mh-mobile/RoamRun) - Run and debug your iPhone from Xcode wherever it is — keeps wireless debugging working over Tailscale when the iPhone is on another network. (today)
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale&#39;s data plane, without Tailscale&#39;s control plane (1 week ago)
 - [lab421/forel](https://github.com/lab421/forel) - File automation for macOS. The open source Hazel alternative for macOS. (1 month ago)
 - [fif7y/dimble](https://github.com/fif7y/dimble) - A calm menu bar, done the native way. Hides the icons you don&#39;t need until you do. (2 months ago)
@@ -52,8 +54,6 @@ The name is Tyler, I'm a fool who lost his way in the tech world! Currently, try
 - [dharmx/walls](https://github.com/dharmx/walls) - All of my wallpapers in one repo. (7 months ago)
 - [obsproject/obs-studio](https://github.com/obsproject/obs-studio) - OBS Studio - Free and open source software for live streaming and screen recording (8 months ago)
 - [liquidslr/system-design-notes](https://github.com/liquidslr/system-design-notes) - Notes of the book System Desgin Interview - An Insider&#39;s Guide (8 months ago)
-- [jelly-ssh/jelly-ssh](https://github.com/jelly-ssh/jelly-ssh) - Jelly is a SSH social network (8 months ago)
-- [SinTan1729/chhoto-url](https://github.com/SinTan1729/chhoto-url) - A simple, blazingly fast, self-hosted URL shortener with no unnecessary features; written in Rust (8 months ago)
 
 #### ❤️ These awesome people sponsor me (thank you!)
 
